@@ -13,7 +13,7 @@
 
  My pet projects :
 
-[Todo-List => react-typesctipt-redux](https://github.com/JMSBRN/todo-redux-typescript/)
+[Todo-List => react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
 
 and others
 
