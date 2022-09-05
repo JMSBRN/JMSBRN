@@ -11,11 +11,10 @@
 
 - 💬  I have several projects in progress.
 
+ My pet projects :
 
-[Todo-List => react typesctipt redux](https://github.com/JMSBRN/todo-redux-typescript/)
-[Christmas game](https://jmsbrn.github.io/christmas-task-react/)
+[Todo-List => react-typesctipt-redux](https://github.com/JMSBRN/todo-redux-typescript/)
 
-[rslang-learning-app](https://rslang-team-16-jmsbrn.herokuapp.com/) 
 and others
 
 <!-- - 📫 How to reach me: ...-->
