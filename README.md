@@ -11,6 +11,8 @@
 
 - 💬  I have several projects in progress.
 
+
+[Todo-List => react typesctipt redux](https://github.com/JMSBRN/todo-redux-typescript/)
 [Christmas game](https://jmsbrn.github.io/christmas-task-react/)
 
 [rslang-learning-app](https://rslang-team-16-jmsbrn.herokuapp.com/) 
@@ -33,3 +35,4 @@ and others
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
