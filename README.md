@@ -14,6 +14,7 @@
  My pet projects :
 
 [Todo-List => react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
+
 [Clone_Trillo_Final_Task_2022Q3_React](https://github.com/JMSBRN/project-management-app), [deploy](https://final-task-team-62-react-2022q3.netlify.app)
 
 and others
