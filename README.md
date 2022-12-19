@@ -2,16 +2,17 @@
 
 ## About me
 
-# I'm a Front End developer
+Recently completed a several course on Front End Development . Want to say thanks The Rolling Scopes School for the opportunity to learn.
+Started 2021 in September
+My relatives seriously think that I've gone crazy...) but they don't tell me about it)))..I can't explain to them what I do..and what is interface :)
+Thank you guys! school changed my life!
 
-- 🔭 I’m currently working on a team project on React
+Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya Sych (https://lnkd.in/d6F8vDqG), @Viktoryia Makaranka(https://lnkd.in/dV99RgrE).
+Wish you all to achieve your goals and always go only forward.
 
+Right now am looking for a job/internship for a Front End Developer(React) position.
 
-- 🌱 I’m currently learning React
-
-- 💬  I have several projects in progress.
-
- My pet projects :
+My pet projects :
 
 [Todo-List => react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
 
