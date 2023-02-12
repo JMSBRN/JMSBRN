@@ -1,9 +1,9 @@
 # Hi there, I'm Alex 👋
 ## I am looking for job as  **React Typescript Developer**
 
- ### Now studying **Node.js**...
+ ### Now studying **🟢Node.js**
 ### I solve assignments from The Rolling Scopes Course.
-# About me
+
 
 Recently completed a several course on Front End Development. Geted **[sertificate](./images/serificate_small.jpg)**.
 
@@ -17,7 +17,7 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
-[Todo-List => react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
+[todolist-react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
 
 [Clone_Trillo_Final_Task_2022Q3_React](https://github.com/JMSBRN/project-management-app), [deploy](https://final-task-team-62-react-2022q3.netlify.app)
 
@@ -26,10 +26,6 @@ and others
 <!-- - 📫 How to reach me: ...-->
 
 [My-CV](https://jmsbrn.github.io/rsschool-cv/)
-
- ### now studying node js...
-### I solve assignments from The Rolling Scopes Course.
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
