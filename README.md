@@ -5,7 +5,7 @@
 ### I solve assignments from The Rolling Scopes Course.
 
 
-Recently completed a several course on Front End Development. Geted **[sertificate](./images/serificate_small.jpg)**.
+Recently completed a several course on Front End Development. Geted **[sertificate](https://jmsbrn.github.io/sertificate/sertificate_react_2022Q3.pdf)**.
 
 Want to say thanks The Rolling Scopes School for the opportunity to learn.
 Started 2021 in September
