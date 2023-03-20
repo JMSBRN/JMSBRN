@@ -1,7 +1,7 @@
 # Hi there, I'm Alex 👋
 ## I am looking for job as  **React Typescript Developer**
 
- ### Now studying **🟢Node.js**
+ ### Now studying **🟢Node.js** and developing **[project](https://next-openai-amber.vercel.app/)** with Next.js
 ### I solve assignments from The Rolling Scopes Course.
 
 
@@ -16,6 +16,8 @@ Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya
 Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
+
+[next-openai-movies-shop](https://next-openai-amber.vercel.app/)
 
 [todolist-react-typescript-redux](https://github.com/JMSBRN/todo-redux-typescript/)
 
@@ -40,6 +42,7 @@ and others
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
 ```
 export interface ICourse {
