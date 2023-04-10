@@ -17,7 +17,7 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
-[Cv landing page with WordPress ](http://jmsbrn.epizy.com/)
+[Cv landing page with WordPress ](https://jmsbrn.epizy.com/)
 
 [next-openai-movies-shop](https://next-openai-amber.vercel.app/)
 
