@@ -1,8 +1,8 @@
 # Hi there, I'm Alex 👋
-## I am looking for job as  **React Typescript Developer**
+## I am looking for job as  **React, Next, Typescript Developer**
 
- ### Now studying **🟢Node.js** and developing **[project](https://next-openai-amber.vercel.app/)** with Next.js
-### I solve assignments from The Rolling Scopes Course.
+ ### In this days try to develop project in Next.js **[project](https://painters-gallery.vercel.app/)**
+ ### I also help The Rolling Scopes students in the Javascript/frontend 2023Q1 course as a mentor.
 
 
 Recently completed a several course on Front End Development. Geted **[sertificate](https://jmsbrn.github.io/sertificate/sertificate_react_2022Q3.pdf)**.
@@ -17,7 +17,8 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
-[painters-gallery(next-mongo-imgBB/GridFS)](https://painters-gallery.vercel.app/)
+[painters-gallery(next-mongo-imgBB/GridFS) ](https://painters-gallery.vercel.app/)
+
 [Cv landing page with WordPress ](https://jmsbrn.epizy.com/)
 
 [todo list with tags ](https://test-task-react-typescript.netlify.app/)
