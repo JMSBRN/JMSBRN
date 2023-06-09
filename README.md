@@ -17,6 +17,7 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
+[painters-gallery(next-mongo-imgBB/GridFS)](https://painters-gallery.vercel.app/)
 [Cv landing page with WordPress ](https://jmsbrn.epizy.com/)
 
 [todo list with tags ](https://test-task-react-typescript.netlify.app/)
