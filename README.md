@@ -17,6 +17,8 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
+[test-task admin-panel](https://admin-panel-ten-psi.vercel.app/)
+
 [painters-gallery(next-mongo-imgBB/GridFS) ](https://painters-gallery.vercel.app/)
 
 [Cv landing page with WordPress ](https://jmsbrn.epizy.com/)
