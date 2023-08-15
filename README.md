@@ -1,7 +1,7 @@
 # Hi there, I'm Alex 👋
 ## I am looking for job as  **React, Next, Typescript Developer**
 
- ### In this days try to develop project in Next.js **[project](https://painters-gallery.vercel.app/)**
+ ### In this days try to develop project in Next.js with commercetools => **[project](https://simple-shop-commercetools-next.vercel.app/)**
  ### I also help The Rolling Scopes students in the Javascript/frontend 2023Q1 course as a mentor.
 
 
@@ -14,6 +14,9 @@ Thank you guys! school changed my life!
 
 Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya Sych (https://lnkd.in/d6F8vDqG), @Viktoryia Makaranka(https://lnkd.in/dV99RgrE).
 Wish you all to achieve your goals and always go only forward.
+
+Project in develop mode: 
+[simple-shop-commercetools-next](https://simple-shop-commercetools-next.vercel.app/)
 
 My pet projects :
 
