@@ -40,7 +40,7 @@ and others
 
 <!-- - 📫 How to reach me: ...-->
 
-[My-CV](https://jmsbrn.github.io/cv/cv_2023.pdf)
+[My-CV](https://jmsbrn.github.io/cv/cv_2023_08_27.pdf)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
