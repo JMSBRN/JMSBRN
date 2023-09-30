@@ -1,5 +1,5 @@
 # Hi there, I'm Alex 👋
-## I am looking for job as  **React, Next, Typescript Developer**
+## I am  **React, Next, Typescript Developer**
 
  ### In this days try to develop project in Next.js with commercetools => **[project](https://simple-shop-commercetools-next.vercel.app/)**
  ### I also help The Rolling Scopes students in the Javascript/frontend 2023Q1 course as a mentor.
