@@ -17,6 +17,8 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
+[simple-store-with-commercetools](https://simple-shop-commercetools-next.vercel.app/)
+
 [text-editor-for-notes-with-tags](https://text-editor-for-notes-with-tags.netlify.app/)
 
 [test-task admin-panel](https://admin-panel-ten-psi.vercel.app/)
