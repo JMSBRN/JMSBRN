@@ -39,7 +39,7 @@ and others
 
 <!-- - 📫 How to reach me: ...-->
 
-[My-CV](https://jmsbrn.github.io/cv/cv_2023_08_27.pdf)
+[My-CV](https://jmsbrn.github.io/cv/fixed_cv_2023.pdf)
 
 [RSSCHOOL-CV](https://app.rs.school/cv/c22d4369-6168-4080-ae7e-d5cbabb49cdb)
 
