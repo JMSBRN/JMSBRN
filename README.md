@@ -1,5 +1,14 @@
-# Hi there, I'm Alex 👋
-## I am  **React, Next, Typescript Developer**
+# Hi there, I'm Alex.
+
+## 👋 Welcome to my GitHub profile!
+
+### I'm a passionate Frontend and Fullstack Developer with a love for React.js and Next.js.
+
+### Here, you'll find my digital playground, where I bring web dreams to life.
+
+### Explore my repositories, and together, let's embark on a journey of coding creativity.
+
+ ### Feel free to connect, collaborate, or just say hello. Let's make the web a better place, one line of code at a time! 😊🚀
 
  ### In this days try to develop projects in Next.js with commercetools. 
  ### I also help The Rolling Scopes students in the Javascript/frontend 2023Q1 course as a mentor.
