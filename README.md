@@ -67,4 +67,5 @@ and others
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![COMMERCETOOLS](https://img.shields.io/badge/COMMERCETOOLS-20B2AA?style=for-the-badge)
+![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-%231572B.svg?style=for-the-badge)
 
