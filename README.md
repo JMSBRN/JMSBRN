@@ -34,18 +34,6 @@ My pet projects :
 
 [test-task admin-panel](https://admin-panel-ten-psi.vercel.app/)
 
-[painters-gallery(next-mongo-imgBB/GridFS) ](https://painters-gallery.vercel.app/)
-
-[Cv landing page with WordPress ](https://jmsbrn.epizy.com/)
-
-[todo list with tags ](https://test-task-react-typescript.netlify.app/)
-
-[next-openai-movies-shop](https://next-openai-amber.vercel.app/)
-
-[todolist-react-typescript-redux](https://todolist-redux-typescript.netlify.app/)
-
-[Clone_Trillo_Final_Task_2022Q3_React](https://github.com/JMSBRN/project-management-app), [deploy](https://final-task-team-62-react-2022q3.netlify.app)
-
 and others
 
 <!-- - 📫 How to reach me: ...-->
