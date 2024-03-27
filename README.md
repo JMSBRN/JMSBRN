@@ -26,6 +26,8 @@ Wish you all to achieve your goals and always go only forward.
 
 My pet projects :
 
+[landing-in-develop-mode-testing-tw](https://frontwave-solutions.netlify.app/)
+
 [landing-with-tailwindcss](https://gdansk-development.netlify.app/)
 
 [simple-store-with-commercetools](https://simple-shop-commercetools-next.vercel.app/)
