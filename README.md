@@ -59,5 +59,6 @@ and others
 ![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![COMMERCETOOLS](https://img.shields.io/badge/COMMERCETOOLS-20B2AA?style=for-the-badge)
-![TAILWINDCSS](https://img.shields.io/badge/TAILWINDCSS-%231572B.svg?style=for-the-badge)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-%231572B6.svg?style=for-the-badge&logo=Alpine.js&logoColor=white)
 
