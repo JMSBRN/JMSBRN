@@ -40,9 +40,7 @@ and others
 
 <!-- - 📫 How to reach me: ...-->
 
-[My-CV](https://jmsbrn.github.io/cv/cv_10_10_2023.pdf)
-
-[RSSCHOOL-CV](https://app.rs.school/cv/c22d4369-6168-4080-ae7e-d5cbabb49cdb)
+[My-CV](https://cv-tw.netlify.app/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
