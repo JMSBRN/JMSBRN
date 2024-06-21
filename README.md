@@ -24,13 +24,17 @@ Thank you guys! school changed my life!
 Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya Sych (https://lnkd.in/d6F8vDqG), @Viktoryia Makaranka(https://lnkd.in/dV99RgrE).
 Wish you all to achieve your goals and always go only forward.
 
-My pet projects :
+landings: 
 
-[medical-center-dev-mode](https://md-center.netlify.app/)
-
-[landing-in-develop-mode-testing-tw](https://frontwave-solutions.netlify.app/)
+[design-studio-pure-html-no-libraries](https://design-studio-simple-landing.netlify.app)
 
 [landing-with-tailwindcss](https://gdansk-development.netlify.app/)
+
+[medical-center-tailwindcss](https://md-center.netlify.app/)
+
+projects :
+
+[landing-in-develop-mode-testing-tw](https://frontwave-solutions.netlify.app/)
 
 [simple-store-with-commercetools](https://simple-shop-commercetools-next.vercel.app/)
 
