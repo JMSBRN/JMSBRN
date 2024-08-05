@@ -24,6 +24,8 @@ Thank you guys! school changed my life!
 Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya Sych (https://lnkd.in/d6F8vDqG), @Viktoryia Makaranka(https://lnkd.in/dV99RgrE).
 Wish you all to achieve your goals and always go only forward.
 
+[My-CV](https://cv-tw.netlify.app/)
+
 landings: 
 
 [design-studio-pure-html-no-libraries](https://design-studio-simple-landing.netlify.app)
@@ -45,8 +47,6 @@ projects :
 and others
 
 <!-- - 📫 How to reach me: ...-->
-
-[My-CV](https://cv-tw.netlify.app/)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
