@@ -1,68 +1,93 @@
-# Hi there, I'm Alex.
+# 👋 Hi there
 
-## 👋 Welcome to my GitHub profile!
+## 🎯 Fullstack & Frontend Developer | React.js • Next.js • Node.js • AI Integration
 
-### I'm a passionate Frontend and Fullstack Developer with a love for React.js and Next.js.
+Welcome to my GitHub profile!  
+I focus on building interactive, scalable, and intelligent web applications.  
+My main motivation is to develop **LLM-powered bots for lead generation**, using modern databases, vector storage, and language models.
 
-### Here, you'll find my digital playground, where I bring web dreams to life.
+---
 
-### Explore my repositories, and together, let's embark on a journey of coding creativity.
+## 🚀 Areas I'm Actively Working On
 
- ### Feel free to connect, collaborate, or just say hello. Let's make the web a better place, one line of code at a time! 😊🚀
+- 🤖 Smart Lead Generation Bot:
+  - 💬 Chat interface powered by LLM
+  - 🔍 Vector search (Qdrant)
+  - ⚡ Fast filtering and faceted search (Algolia)
+  - 🧠 RAG architecture (Retrieval-Augmented Generation)
+- 💻 Production-ready projects with **Next.js** + **commercetools**
+- 🔁 Backend automation and workflows via **n8n**
+- 🐳 Deployment and CI/CD using **Docker**, **Railway**, **Heroku**, **Vercel**
+- 👨‍🏫 Mentoring students at **The Rolling Scopes School** (Frontend 2023Q1)
 
- ### In this days try to develop projects in Next.js with commercetools. 
- ### I also help The Rolling Scopes students in the Javascript/frontend 2023Q1 course as a mentor.
+---
 
+## 🛠️ Tech Stack & Skills
 
-Recently completed a several course on Front End Development. Geted **[sertificate](https://jmsbrn.github.io/sertificate/sertificate_react_2022Q3.pdf)**.
-
-Want to say thanks The Rolling Scopes School for the opportunity to learn.
-Started 2021 in September
-My relatives seriously think that I've gone crazy...) but they don't tell me about it)))..I can't explain to them what I do..and what is interface :)
-Thank you guys! school changed my life!
-
-Also thanks my mentors: @Rustam Mukhamedov(https://lnkd.in/dvw5i6bP), Anastasiya Sych (https://lnkd.in/d6F8vDqG), @Viktoryia Makaranka(https://lnkd.in/dV99RgrE).
-Wish you all to achieve your goals and always go only forward.
-
-[My-CV](https://cv-tw.netlify.app/)
-
-landings: 
-
-[design-studio-pure-html-no-libraries](https://design-studio-simple-landing.netlify.app)
-
-[landing-with-tailwindcss](https://gdansk-development.netlify.app/)
-
-[medical-center-tailwindcss](https://md-center.netlify.app/)
-
-projects :
-
-[landing-in-develop-mode-testing-tw](https://frontwave-solutions.netlify.app/)
-
-[simple-store-with-commercetools](https://simple-shop-commercetools-next.vercel.app/)
-
-[text-editor-for-notes-with-tags](https://text-editor-for-notes-with-tags.netlify.app/)
-
-[test-task admin-panel](https://admin-panel-ten-psi.vercel.app/)
-
-and others
-
-<!-- - 📫 How to reach me: ...-->
-
+**Frontend:**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![COMMERCETOOLS](https://img.shields.io/badge/COMMERCETOOLS-20B2AA?style=for-the-badge)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-%231572B6.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-%231572B6.svg?style=for-the-badge&logo=Alpine.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
+**Backend & DevOps:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-ff6a00?style=for-the-badge&logo=n8n&logoColor=white)
+![Algolia](https://img.shields.io/badge/algolia-%23007CFB.svg?style=for-the-badge&logo=algolia&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-4C51BF?style=for-the-badge&logo=vector&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/railway-141414?style=for-the-badge&logo=railway&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 🧠 Motivation
+
+The main goal is to create smart LLM agents that understand user queries and return relevant data from both structured and vectorized sources.  
+Focus areas include building systems that combine:  
+- Language models (GPT, Claude, Gemini)  
+- Vector search engines (Qdrant, Pinecone)  
+- Fast metadata-based filtering (Algolia)  
+- RAG architectures with source prioritization  
+
+---
+
+## 📜 Certificates
+
+📄 [React 2022Q3 – RS School Certificate](https://jmsbrn.github.io/sertificate/sertificate_react_2022Q3.pdf)
+
+Special thanks to **The Rolling Scopes School** — my journey in development began there in September 2021.  
+Mentors:  
+[🔗 Rustam Mukhamedov](https://lnkd.in/dvw5i6bP), [🔗 Anastasiya Sych](https://lnkd.in/d6F8vDqG), [🔗 Viktoryia Makaranka](https://lnkd.in/dV99RgrE)
+
+---
+
+## 🧪 Side Projects & Landings
+
+- 🏪 [Simple Store with Commercetools (Next.js)](https://simple-shop-commercetools-next.vercel.app/)  
+- 📝 [Text Editor with Tags](https://text-editor-for-notes-with-tags.netlify.app/)  
+- 📊 [Admin Panel – Test Task](https://admin-panel-ten-psi.vercel.app/)  
+- 🎨 [Design Studio Landing (HTML)](https://design-studio-simple-landing.netlify.app/)  
+- 🏥 [Medical Center (TailwindCSS)](https://md-center.netlify.app/)  
+- 🌆 [Landing Page with Tailwind](https://gdansk-development.netlify.app/)  
+- 🧪 [TW Dev Landing](https://frontwave-solutions.netlify.app/)  
+
+---
+
+## 📄 [My CV](https://cv-tw.netlify.app/)
+
+---
+
+## ☕ Let’s Connect
+
+Open to collaboration and fresh ideas.  
+My goal is to merge technologies to make the web and business bots **smarter and more accessible** 🚀
