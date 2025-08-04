@@ -72,8 +72,8 @@ Mentors:
 ---
 
 ## 🧪 Side Projects & Landings
-
-- 🏪 [Test with Simple Realty Search (Next.js-ALGOLIA-Firebase-GEMINI)](https://realty-algolia-next-mxmvh7dco-jmsbrns-projects.vercel.app/)  
+      
+- 🏪 [Test with Simple Realty Search (Next.js-ALGOLIA-Firebase-GEMINI)(in develop mode)](https://realty-algolia-next-mxmvh7dco-jmsbrns-projects.vercel.app/)  
 
 - 📝 [Text Editor with Tags](https://text-editor-for-notes-with-tags.netlify.app/)  
 - 📊 [Admin Panel – Test Task](https://admin-panel-ten-psi.vercel.app/)  
