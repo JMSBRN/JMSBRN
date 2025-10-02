@@ -47,6 +47,7 @@ My main motivation is to develop **LLM-powered bots for lead generation**, using
 ![Firebase](https://img.shields.io/badge/firebase-ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Genkit](https://img.shields.io/badge/genkit-141414.svg?style=for-the-badge&logo=genkit&logoColor=white)
 
 ---
 
