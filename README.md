@@ -73,6 +73,8 @@ Mentors:
 ---
 
 ## 🧪 Side Projects & Landings
+
+- 🏖 [Simple PWA. Test-firebase-auth,genkit-flows,tts,stt. Main feature clone voice(not end)](https://note-ui-navy.vercel.app/)
       
 - 🏪 [Test with Simple Realty Search (Next.js-ALGOLIA-Firebase-GEMINI)(in develop mode)](https://realty-algolia-next.vercel.app/)  
 
