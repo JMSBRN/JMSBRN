@@ -87,7 +87,7 @@ Mentors:
 
 ---
 
-## 📄 [My CV](https://cv-tw.netlify.app/)
+## 📄 [My CV](https://cv-jmsbrn.netlify.app/resume.html)
 
 ---
 
