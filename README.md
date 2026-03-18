@@ -92,6 +92,7 @@ Mentors:
 ---
 
 ## ☕ Let’s Connect
+## telegram:  @jmsbrn
 
 Open to collaboration and fresh ideas.  
 My goal is to merge technologies to make the web and business bots **smarter and more accessible** 🚀
