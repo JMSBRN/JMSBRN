@@ -9,12 +9,14 @@ My focus: **LLM-powered agents, Telegram bots, RAG architectures, and Cloudflare
 
 ## 🧠 What I'm Building Now
 
-- 🕵️ **Universal Scout Bot** — Cloudflare-native Telegram platform with 4-layer architecture:
-  - Telegram interface · Job configurator on D1 · Reconnaissance engine (6 Workers modules) · Pluggable data sources
-  - Targets real estate listings, generates PDF reports, filters via Workers AI
-- 🤖 **RAG Corporate Q&A Assistant** — Cloudflare Workers + Cohere embeddings + Vectorize + Groq LLM
-- 🏠 **Real Estate AI Agent** — Google Sheets (~2000 listings) + Gemini + Python, three-version roadmap (state-machine funnel → Telegram LLM bot)
-- 📡 **Telegram Channel Automation** — n8n workflows + LLM APIs for content scheduling and management
+
+ - 🤖 Hermes Agent — currently deploying and configuring an agent system (work in progress)
+ - 🕵️ **Universal Scout Bot** — Cloudflare-native Telegram platform with 4-layer architecture:
+ - Telegram interface · Job configurator on D1 · Reconnaissance engine (6 Workers modules) · Pluggable data sources
+ - Targets real estate listings, generates PDF reports, filters via Workers AI
+ - **RAG Corporate Q&A Assistant** — Cloudflare Workers + Cohere embeddings + Vectorize + Groq LLM
+ - 🏠 **Real Estate AI Agent** — Google Sheets (~2000 listings) + Gemini + Python, three-version roadmap (state-machine funnel → Telegram LLM bot)
+ - 📡 **Telegram Channel Automation** — n8n workflows + LLM APIs for content scheduling and management
 
 ---
 
